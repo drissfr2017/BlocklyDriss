@@ -1,0 +1,21 @@
+{
+    "categoryName": "drissA4", 
+    "description": "Blocs développés par Driss SOUDANI pour le matériel A4 Technologie",
+    "languages": ["en", "fr"],
+    "toolboxName": "drissA4",
+    "toolbox": [
+        "<category name=\"CAT_DRISS_A4_IN\">",
+        "  <block type=\"driss_A4_btn_white\"></block>",
+        "  <block type=\"driss_A4_btn_relache\"></block>",
+        "  <block type=\"driss_A4_ldr\"></block>",
+        "  <block type=\"driss_A4_fdc\"></block>",
+        "  <block type=\"driss_A4_pir\"></block>",
+        "</category>",
+        "<category name=\"CAT_DRISS_A4_OUT\">",
+        "  <block type=\"driss_A4_led_red\"></block>",
+        "  <block type=\"driss_A4_eclairage\"></block>",
+        "  <block type=\"driss_A4_commande_moteur_CC\"></block>",
+        "  <block type=\"driss_A4_arreter_moteur_CC\"></block>",
+        "</category>"
+    ]
+}
